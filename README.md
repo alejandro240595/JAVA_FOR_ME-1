@@ -5,5 +5,3 @@
 - No se cuando vere Java.
 - Alianza Campeón
 - Pero no se cuando.
-- hola
-- que tal
